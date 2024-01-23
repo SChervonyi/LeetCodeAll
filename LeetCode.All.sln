@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.All", "LeetCode.All\LeetCode.All.csproj", "{59DEF9E8-6D0B-4335-A0FC-13D6322FDAFF}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{2F1CF64E-925C-4CCE-9B31-C1094F0A7C74}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindrom", "LongestPalindrom\LongestPalindrom.csproj", "{B8DBC075-5C6F-43BC-BF32-64FE0E02F589}"
@@ -33,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToRoman", "IntegerTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{BEFDCA1E-7089-40DB-8348-A3B208900C11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{D97F49F0-F363-4701-9993-FC88EDD53776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Sum", "3Sum\3Sum.csproj", "{D97F49F0-F363-4701-9993-FC88EDD53776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59DEF9E8-6D0B-4335-A0FC-13D6322FDAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59DEF9E8-6D0B-4335-A0FC-13D6322FDAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59DEF9E8-6D0B-4335-A0FC-13D6322FDAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59DEF9E8-6D0B-4335-A0FC-13D6322FDAFF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F1CF64E-925C-4CCE-9B31-C1094F0A7C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2F1CF64E-925C-4CCE-9B31-C1094F0A7C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F1CF64E-925C-4CCE-9B31-C1094F0A7C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
